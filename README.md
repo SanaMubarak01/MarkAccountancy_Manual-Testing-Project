@@ -7,7 +7,7 @@
 ##  Requirement Document Summary
 
 A detailed requirement specification document is provided outlining the core features, UI layout expectations, and responsive behavior standards for the Mark Accountancy website. All test scenarios were traced back to specific requirement points to ensure complete coverage and accurate validation. The document also helped identify discrepancies such as the non-responsive headings issue, which was uncovered during conformance testing against these specifications.
-[Download the Requirement Specification Document in pdf](Requirement Specification Document.pdf) 
+([Download the Requirement Specification Document in pdf](https://github.com/SanaMubarak01/MarkAccountancy_Manual-Testing-Project/blob/a16a44cfaff6004468b70469edf9e0f791b076f0/Requirement%20Specification%20Document.pdf)) 
 
 ## Test Plan Summary
 
@@ -88,7 +88,7 @@ Measured using **Chrome DevTools**, **Lighthouse**, and **PageSpeed Insights**.
 
 **Tool Used**: Microsoft Excel  
 
->  Excel File: `Test Cases MarkAccountancy.xlsx`
+>  Excel File: [Test Cases spreadsheet file](https://github.com/SanaMubarak01/MarkAccountancy_Manual-Testing-Project/blob/a16a44cfaff6004468b70469edf9e0f791b076f0/Test%20Cases%20MarkAccountancy.xlsx)`
 
 ---
 
